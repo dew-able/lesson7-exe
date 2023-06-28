@@ -1,1 +1,1 @@
-print ("hello from py")
+1
