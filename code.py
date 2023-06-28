@@ -1,1 +1,1 @@
-1
+print ("Hello from code.py")
